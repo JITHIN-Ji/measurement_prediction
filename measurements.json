@@ -1,0 +1,35 @@
+{
+  "user123": {
+    "user_id": "user123",
+    "input_parameters": {
+      "age": 15.0,
+      "gender": "male",
+      "weight": 50.0,
+      "height": 160.0
+    },
+    "measurements_cm": {
+      "Waist": 85.68000030517578,
+      "Hip": 93.6500015258789,
+      "Bicep": 22.93000030517578,
+      "Neck": 30.100000381469727,
+      "Wrist": 14.350000381469727,
+      "Chest": 75.2,
+      "Shoulder": 36.8,
+      "Sleeve": 51.2
+    },
+    "measurements_inches": {
+      "Waist": 33.73,
+      "Hip": 36.87,
+      "Bicep": 9.03,
+      "Neck": 11.85,
+      "Wrist": 5.65,
+      "Chest": 29.61,
+      "Shoulder": 14.49,
+      "Sleeve": 20.16
+    },
+    "prediction_timestamp": "2025-07-16T16:33:34.842038",
+    "last_updated": "2025-07-16T16:33:34.842038",
+    "is_predicted": true,
+    "is_manually_updated": false
+  }
+}
